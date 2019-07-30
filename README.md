@@ -1,5 +1,5 @@
 # PDFSplitter
-C# console app to split PDF documents into individual pages
+C# console app to split PDF documents into individual pages (useful for OCR when you have multiple pages)
 
 Uses the following NuGet libraries:
 - CommandLineParser https://github.com/commandlineparser/commandline
